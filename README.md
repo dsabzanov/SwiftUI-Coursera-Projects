@@ -1,5 +1,5 @@
 # SwiftUI-Coursera-Projects
-Small projects created while learning SwiftUI on Coursera.
+Small projects created while learning SwiftUI Meta course on Coursera.
 
 NewProject
   - Learned how to create a separate View, called MyView containing a simple Text element and adding that view to the main ContentView.
@@ -9,3 +9,6 @@ Reservations
 
 ReservationForm
   - Demonstrates the creation of a TextField inside a Form, updating the @State value, and detechting the changes inside that TextField.
+
+Little Lemon Reservation Project
+  - This final project demonstrates all skills learned in the SwiftUI course under one app.
